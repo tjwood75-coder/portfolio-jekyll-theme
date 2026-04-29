@@ -6,4 +6,4 @@ permalink: /about
 
 # Tom's portfolio
 
-Its's super cool. 
+It's super cool. 
